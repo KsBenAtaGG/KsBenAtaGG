@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @KsBenAtaGG
-- 👀 I’m interested in JavaScript, Python, Node.js
-- 🌱 I’m currently learning C#
